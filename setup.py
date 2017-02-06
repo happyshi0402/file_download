@@ -22,7 +22,7 @@ import sys
 from setuptools import setup
 
 about = {}
-with open('__about__.py') as f:
+with open('file_download/__about__.py') as f:
     exec(f.read(), about)
 
 if sys.argv[-1] == 'test':
