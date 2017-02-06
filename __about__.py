@@ -1,0 +1,10 @@
+__title__ = 'file_download'
+__description__ = 'file down'
+__url__ = 'https://github.com/happyshi0402/file_download'
+__version_info__ = ('0', '0', '1')
+__version__ = '.'.join(__version_info__)
+__author__ = 'happyshi0402'
+__author_email__ = 'wsf121116@163.com'
+__maintainer__ = 'happyshi0402'
+__license__ = 'MIT'
+__copyright__ = '(c) 2017 by happyshi0402'
